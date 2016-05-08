@@ -16,6 +16,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="longboard_v2.ino" />
+    <None Include="Funktionen.ino" />
+    <None Include="longboard_main.ino" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="__vm\.longboard_v2.vsarduino.h">

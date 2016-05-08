@@ -67,4 +67,6 @@ extern "C" void __cxa_pure_virtual() {;}
 #define portInputRegister(P)
 #define portModeRegister(P)
 #include <..\longboard_v2\longboard_v2.ino>
+#include <..\longboard_v2\Funktionen.ino>
+#include <..\longboard_v2\longboard_main.ino>
 #endif
